@@ -29,3 +29,5 @@ altriemnti con false avrà un bordo e il colore di sfondo sarà trasparente
 percDropdownItem è la grandezza in % della finestra che si apre quando si clicca il bottone
 se non viene passato nessun valore allora utilizzarà un valore di default,
 il valore va passato con il % es: 10%
+
+NB. l'importazione dell'icona e del file css devono essere cambiate a seconda di dove vengono posizionate all'interno del progetto
